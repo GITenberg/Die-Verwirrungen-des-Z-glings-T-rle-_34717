@@ -1,0 +1,47 @@
+_repo: Die-Verwirrungen-des-Z-glings-T-rle-_34717
+_version: 0.1.0
+alternative_title: Verwirrungen des Zöglings Törless
+covers:
+- cover_type: archival
+  image_path: 34717-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Musil, Robert
+    alias: Musel, Robert
+    birthdate: 1880
+    deathdate: 1942
+    gutenberg_agent_id: '37187'
+    url: http://www.gutenberg.org/2009/agents/37187
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Musil
+description: "The Confusions of Young Törless (German: Die Verwirrungen des Zöglings\
+  \ Törleß), or Young Törless, is the literary debut of the Austrian novelist and\
+  \ essayist Robert Musil, first published in 1906.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34717'
+  wikidata: Q1112285
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Military education -- Fiction'
+- !lcsh 'Authoritarianism -- Fiction'
+- !lcsh 'Adolescence -- Fiction'
+title: Die Verwirrungen des Zöglings Törleß
+url: http://www.gutenberg.org/ebooks/34717
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_D%C3%A9sarrois_de_l%27%C3%A9l%C3%A8ve_T%C3%B6rless
+- https://sh.wikipedia.org/wiki/Die_Verwirrungen_des_Z%C3%B6glings_T%C3%B6rless
+- https://id.wikipedia.org/wiki/Die_Verwirrungen_des_Z%C3%B6glings_T%C3%B6rle%C3%9F
+- https://pl.wikipedia.org/wiki/Niepokoje_wychowanka_T%C3%B6rlessa
+- https://cs.wikipedia.org/wiki/Zmatky_chovance_T%C3%B6rlesse
+- https://fa.wikipedia.org/wiki/%D8%A2%D8%B4%D9%81%D8%AA%DA%AF%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D8%B1%D9%84%D8%B3_%D8%AC%D9%88%D8%A7%D9%86
+- https://de.wikipedia.org/wiki/Die_Verwirrungen_des_Z%C3%B6glings_T%C3%B6rle%C3%9F
+- https://es.wikipedia.org/wiki/Las_tribulaciones_del_estudiante_T%C3%B6rless
+- https://en.wikipedia.org/wiki/The_Confusions_of_Young_T%C3%B6rless
+- https://it.wikipedia.org/wiki/I_turbamenti_del_giovane_T%C3%B6rless
+- https://pt.wikipedia.org/wiki/O_Jovem_T%C3%B6rless
