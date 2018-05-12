@@ -16,6 +16,8 @@ creator:
 description: "The Confusions of Young Törless (German: Die Verwirrungen des Zöglings\
   \ Törleß), or Young Törless, is the literary debut of the Austrian novelist and\
   \ essayist Robert Musil, first published in 1906.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34717#Die-Verwirrungen-des-Z-glings-T-rle-
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-12-21'
 gutenberg_type: Text
